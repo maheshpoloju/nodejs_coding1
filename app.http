@@ -1,0 +1,13 @@
+GET http://localhost:3000/todos/?priority=HIGH&status=IN%20PROGRESS
+
+###
+GET http://localhost:3000/todos/?category=WORK&status=DONE
+
+###
+GET http://localhost:3000/agenda/?date=2021-02-22
+
+###
+GET http://localhost:3000/todos/3/
+
+###
+GET http://localhost:3000/agenda/?date=2021-02-22
